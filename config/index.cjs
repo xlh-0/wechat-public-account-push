@@ -27,12 +27,8 @@ const USER_CONFIG = {
       useTemplateId: 'uKTiTpZhFqVs1kzoZ0qvlFN4p-NVDDdLaMzBBfXy6u0',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-26',
-      // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
-        // 在一起的日子
-        { keyword: 'work_day', date: '2022-06-09' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        { keyword: 'work_day', date: '2022-06-09' }
       ],
     },
   ],
